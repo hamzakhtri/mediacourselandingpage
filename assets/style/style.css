@@ -905,11 +905,11 @@ select.form-select {
     }
 
     .offer-section span.fw-bold.fs-4 {
-        font-size: 15px !important;
+        font-size: 13px !important;
     }
 
     .offer-section p.tagline.px-2.px-lg-5.text-light {
-        font-size: 15px !important;
+        font-size: 13px !important;
     }
 }
 
