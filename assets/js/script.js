@@ -58,7 +58,7 @@ Confettiful.prototype._renderConfetti = function () {
         }, 5000); // Increased duration
 
         this.containerEl.appendChild(confettiEl);
-    }, 25);
+    }, 50);
 };
 
 window.confettiful = new Confettiful(document.querySelector('.js-container'));
